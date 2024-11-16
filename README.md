@@ -22,4 +22,5 @@ Bibliotecas: Pandas, Numpy, Scikit-Learn, Seaborn, MatPlotLib (Pyplot), Os, Kagg
 
 ### 6 - Autores e colaboradores
 Lucca Fernandes Trancoso Nolasco: Desenvolvimento do Notebook e do relatório.
+
 Rodrigo Ferreira Bento Aguiar: Desenvolvimento do Notebook
